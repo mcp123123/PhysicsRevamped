@@ -1,0 +1,3 @@
+spread_chance: 5
+# Chance that trickling will spread to nearby blocks
+# Determined by [spread_chance]%
